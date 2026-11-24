@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Zia-ul-Quran Online Academy",description:"Learn Quran online with Tajweed and qualified teachers."};export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
